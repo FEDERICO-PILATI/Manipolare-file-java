@@ -1,1 +1,1 @@
-Per allenarmi con Java ho creato dei mini programmini per cercare file, trovare i file e scrivere dentro un file
+Per allenarmi con Java ho ricreato dei mini programmini per cercare file, trovare i file e scrivere dentro un file
